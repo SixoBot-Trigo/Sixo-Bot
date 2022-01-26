@@ -27,6 +27,9 @@ search_btn = driver.find_element_by_id("comp-kx1owkv24label")
 search_btn.click()
 
 # Found " Sixo Bot" in groupes
+search_btn = driver.find_element_by_class_name("s36c5G")
+search_btn.click()
+
 search_bar = driver.find_element_by_class_name("s36c5G")
 search_bar.send_keys("Sixo Bot")
 
