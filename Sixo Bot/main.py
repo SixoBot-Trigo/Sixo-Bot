@@ -17,7 +17,7 @@ search_bar = driver.find_element_by_id("input_comp-kybk514w")
 search_bar.send_keys("adonis.skg@yahoo.com")
 
 search_bar = driver.find_element_by_id("input_comp-kybk5153")
-search_bar.send_keys("TrigBot.dev.Official")
+search_bar.send_keys("**SENSURED**")
 
 search_btn = driver.find_element_by_class_name("_1Qjd7")
 search_btn.click()
